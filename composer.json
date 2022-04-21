@@ -1,0 +1,15 @@
+{
+    "name": "mamadzirone/php-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohammad jamshidian",
+            "email": "jamshidian9898@gmail.com"
+        }
+    ],
+    "require": {}
+}
